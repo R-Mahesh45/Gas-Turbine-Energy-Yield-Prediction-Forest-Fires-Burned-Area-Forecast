@@ -101,8 +101,3 @@ This repository contains two predictive modeling projects leveraging Neural Netw
 ## Usage  
 1. Open the respective scripts for Gas Turbines or Forest Fires.  
 2. Run the scripts to preprocess data, build the model, and evaluate performance.  
-
----
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
